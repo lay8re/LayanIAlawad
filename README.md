@@ -21,6 +21,5 @@
 ---
 
 ## 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layanalawad)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/layanalawad/)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:layan.la.alawad@gmail.com)
